@@ -218,3 +218,8 @@ plt.ylim(0, 1.05)
 plt.title("Comparação de modelos de classificação")
 plt.xticks(rotation=45)
 plt.show()
+
+from sklearn.metrics import classification_report
+
+print("\n--- Relatório de Classificação ---")
+print(classification_report(y_test, y_pred, target_names=encoder.classes_, zero_division=0))
