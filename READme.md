@@ -1,7 +1,7 @@
 🧬 Sobre o projeto
 
 Esse projeto nasceu do início dos meus estudos em biologia computacional, explorando livros e artigos sobre Biopython.
-A ideia principal é criar um programa capaz de gerar uma sequência de aminoácidos (parte de uma proteína) a partir de um trecho de DNA fornecido pelo usuário.
+A ideia principal é criar um programa capaz de gerar uma sequência de aminoácidos (parte de uma proteína) a partir de um trecho de DNA.
 
 O processo segue o mesmo princípio da expressão gênica:
 
