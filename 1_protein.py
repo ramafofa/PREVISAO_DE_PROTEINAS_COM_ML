@@ -26,6 +26,7 @@ from sklearn.metrics import classification_report, confusion_matrix, accuracy_sc
 from sklearn.exceptions import DataConversionWarning
 from Bio import Entrez, SeqIO
 Entrez.email = "ramaechelsea@gmail.com"
+Entrez.email = "ancoaraujo@gmail.com"
 
 warnings.filterwarnings('ignore', category=DataConversionWarning)
 warnings.filterwarnings('ignore', category=UserWarning)
