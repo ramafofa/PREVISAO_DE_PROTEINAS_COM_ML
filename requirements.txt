@@ -1,0 +1,1 @@
+##Faltam gráficos que a Ana fez, de suma importancia para o entendimento do projeto. Nao estou conseguindo coloca-los no código via VScode
