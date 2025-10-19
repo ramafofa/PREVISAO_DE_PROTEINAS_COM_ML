@@ -2,6 +2,7 @@
 
 Esse projeto nasceu do início dos meus estudos em biologia computacional, explorando livros e artigos sobre Biopython.
 A ideia principal é criar um programa capaz de gerar uma sequência de aminoácidos (parte de uma proteína) a partir de um trecho de DNA.
+No caso estamos comparando parte da sequência da isulina de um humano com um rato. Mais pra frente pretendemos colocar um iinput e fazer com que o programa aceite sequências inteiras.
 
 O processo segue o mesmo princípio da expressão gênica:
 
@@ -18,7 +19,7 @@ No exemplo usado no código, o programa reconstrói o início da sequência da I
 Depois de finalizar a primeira versão, compartilhei o projeto com a Ana Catarina, uma amiga engenheira de software.
 Ela curtiu a ideia e resolveu expandir o projeto para a área de Machine Learning e, nesse processo, me ensinou conceitos de ML e também como criar gráficos para análise de dados.
 
-Essa parceria acabou transformando o projeto em algo bem maior: agora ele não só traduz DNA em proteínas, como também abre caminho para análises preditivas e visualizações biológicas interativas,  gráficos que separam as variáveis a cerca dos aminoácidos, quais algorítimos utilizados para o ML etc.
+Essa parceria acabou transformando o projeto em algo bem maior: agora ele não só traduz DNA em proteínas, como também abre caminho para análises preditiva,  gráficos que separam as variáveis a cerca dos aminoácidos e quais algorítimos utilizados para o ML etc.
 
 (O trecho a seguir foi feito pela Ana, explicando o que está sendo feito).
 📊 CONCEITOS BÁSICOS:
